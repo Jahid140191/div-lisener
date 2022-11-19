@@ -1,0 +1,20 @@
+.box-container{
+    border: 2px solid red;
+    width: 45%;
+    margin: 50px auto;
+    columns: 4;
+    padding: 10px;
+}
+.box{
+    height: 94px;
+    width: 120px;
+    border: 2px solid black;
+    margin-top: 10px;
+    margin-left: 9px;
+    text-align: center;
+    padding-top: 50px;
+    font-size: 30px;
+}
+.div1{
+    margin-top:0px;
+}
